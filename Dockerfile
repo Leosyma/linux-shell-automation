@@ -3,9 +3,6 @@
 # Imagem base
 FROM ubuntu:latest
 
-# Definir o mantenedor da imagem
-LABEL maintainer="suporte@datascienceacademy.com.br"
-
 # Atualizar o SO e instalar dependências
 RUN apt update && apt install -y \
     vim \

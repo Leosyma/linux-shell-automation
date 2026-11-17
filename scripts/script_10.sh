@@ -1,6 +1,5 @@
 #!/bin/bash
 # ==============================
-# Data Science Academy
 # Script: script10.sh
 # ==============================
 
@@ -80,5 +79,5 @@ echo
 echo Data de geração do relatório:
 date
 echo
-echo "Parabéns por estar aprendendo Linux aqui na Data Science Academy!"
+echo "Parabéns por estar aprendendo Linux!"
 } | tee "$OUTPUT"

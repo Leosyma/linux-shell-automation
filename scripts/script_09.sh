@@ -1,6 +1,5 @@
 #!/bin/bash
 # ==============================
-# Data Science Academy
 # Script: script9.sh
 # ==============================
 

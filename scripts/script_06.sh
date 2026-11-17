@@ -1,6 +1,5 @@
 #!/bin/bash
 # ==============================
-# Data Science Academy
 # Script: script6.sh
 # ==============================
 
@@ -27,7 +26,7 @@ echo "16 FLP"
 echo "17 FPLN"
 echo "18 FVC"
 echo "S Sair"
-echo "Digite o número da Formação que você está fazendo na DSA (ou S para sair e encerrar o script): "
+echo "Digite o número da Formação que você está fazendo (ou S para sair e encerrar o script): "
 read MENUCHOICE
 case $MENUCHOICE in
  1)
